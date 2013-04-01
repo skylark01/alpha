@@ -1,4 +1,4 @@
 alpha
 =====
 
-Dummy project for testing CI
+Dummy project for testing CI.
