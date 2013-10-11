@@ -1,4 +1,3 @@
-# Yay! Fire a webhook build :P
 language: csharp
 csharp:
   - dotNet40
